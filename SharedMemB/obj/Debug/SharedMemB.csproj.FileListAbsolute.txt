@@ -1,0 +1,10 @@
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemB\bin\Debug\SharedMemB.exe.config
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemB\bin\Debug\SharedMemB.exe
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemB\bin\Debug\SharedMemB.pdb
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemB\obj\Debug\SharedMemB.csproj.AssemblyReference.cache
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemB\obj\Debug\SharedMemB.frmMain.resources
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemB\obj\Debug\SharedMemB.Properties.Resources.resources
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemB\obj\Debug\SharedMemB.csproj.GenerateResource.cache
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemB\obj\Debug\SharedMemB.csproj.CoreCompileInputs.cache
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemB\obj\Debug\SharedMemB.exe
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemB\obj\Debug\SharedMemB.pdb

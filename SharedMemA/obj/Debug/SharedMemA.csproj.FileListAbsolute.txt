@@ -1,0 +1,10 @@
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemA\bin\Debug\SharedMemA.exe.config
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemA\bin\Debug\SharedMemA.exe
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemA\bin\Debug\SharedMemA.pdb
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemA\obj\Debug\SharedMemA.csproj.AssemblyReference.cache
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemA\obj\Debug\SharedMemA.Properties.Resources.resources
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemA\obj\Debug\SharedMemA.csproj.GenerateResource.cache
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemA\obj\Debug\SharedMemA.csproj.CoreCompileInputs.cache
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemA\obj\Debug\SharedMemA.exe
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemA\obj\Debug\SharedMemA.pdb
+D:\XO-PersonalWorkspace\Personal_Project\DotNETWorkspace\SharedMem\SharedMemA\obj\Debug\SharedMemA.frmMain.resources
